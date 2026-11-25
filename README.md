@@ -1,5 +1,7 @@
 # Unitree Qmini
 
+**Galaxy J2 adaptation (experimental):** [J2 head carrier, Android app and simulation gateway](j2/README.md).
+
 <p align="center"><img src="images/Qmini.jpeg" width="100%"/></p>
 
 **Unitree Qmini** is a fully open-sourced, low-cost bipedal robot that can be entirely 3D printed by individual users. Designed for hobbyists, educators, and researchers alike, Qmini enables users to rapidly get started and assemble their own robot in a modular, LEGO-like fashion. It provides an accessible and affordable entry point into robotics, accelerating innovation and contributing to the global development of the robotics ecosystem.

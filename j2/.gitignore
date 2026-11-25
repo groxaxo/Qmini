@@ -1,0 +1,5 @@
+android/build/
+__pycache__/
+*.pyc
+*.keystore
+*.blend1
